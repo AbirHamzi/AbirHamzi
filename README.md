@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![img](https://images.ctfassets.net/vtn4rfaw6n2j/image1_0jpg/54ec6499718811cc8ffc68516ce1958e/image1_0.jpg?w=642&h=264&fit=thumb)
+<div style="text-align:center"><img src="https://images.ctfassets.net/vtn4rfaw6n2j/image1_0jpg/54ec6499718811cc8ffc68516ce1958e/image1_0.jpg?w=642&h=264&fit=thumb" /></div>
+
